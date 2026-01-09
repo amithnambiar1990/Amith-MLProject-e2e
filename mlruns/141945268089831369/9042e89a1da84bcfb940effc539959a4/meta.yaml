@@ -1,0 +1,14 @@
+artifact_uri: file:///root/MLProject/Proj1/Loksai-MLProject-e2e/mlruns/141945268089831369/9042e89a1da84bcfb940effc539959a4/artifacts
+end_time: 1767619055900
+entry_point_name: ''
+experiment_id: '141945268089831369'
+lifecycle_stage: active
+run_id: 9042e89a1da84bcfb940effc539959a4
+run_name: casual-sloth-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767619055887
+status: 3
+tags: []
+user_id: root

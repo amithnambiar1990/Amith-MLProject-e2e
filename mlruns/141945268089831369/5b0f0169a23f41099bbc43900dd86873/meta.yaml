@@ -1,0 +1,14 @@
+artifact_uri: file:///root/MLProject/Proj1/Loksai-MLProject-e2e/mlruns/141945268089831369/5b0f0169a23f41099bbc43900dd86873/artifacts
+end_time: 1767617884008
+entry_point_name: ''
+experiment_id: '141945268089831369'
+lifecycle_stage: active
+run_id: 5b0f0169a23f41099bbc43900dd86873
+run_name: dashing-jay-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767617883995
+status: 3
+tags: []
+user_id: root
