@@ -61,7 +61,6 @@ jobs:
         mkdir -p ~/.kube
         echo "${{ secrets.KUBECONFIG_DATA }}" > ~/.kube/config
 
-
     - name: Deploy to Kubernetes
       run: |
         kubectl apply -f k8s/api-deployment.yaml
